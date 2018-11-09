@@ -17,4 +17,5 @@ def speak_to_grandma(message)
     puts 'I LOVE YOU TOO PUMPKIN!'
   elsif message != message.upcase
     puts 'HUH?! SPEAK UP, SONNY!'
+  end
 end
